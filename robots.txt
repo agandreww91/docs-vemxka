@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-comir9.gpubrief.com/sitemap.xml
